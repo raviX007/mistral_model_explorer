@@ -26,7 +26,7 @@ A Streamlit application that allows users to interact with different language mo
 #Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/huggingface-model-explorer.git
+git clone https://github.com/ravix007/huggingface-model-explorer.git
 cd huggingface-model-explorer
 ```
 
@@ -76,7 +76,4 @@ streamlit run app.py
 
 ## Screenshot of working application
 
-![alt text](<Screenshot 2024-12-16 at 7.31.45 PM.png>)
-
-Hosted link:
-https://mistralmodelexplorer-jzwgnx4dnqlhbgman3gukp.streamlit.app/
+![alt text](<Screenshot 2025-01-06 at 6.51.05 AM.png>)
